@@ -11,4 +11,3 @@ Payment Method Insights: Breakdown of sales by payment methods including COD, UP
 Top Customers and States: Identification of top customers and states by total spending, highlighting key contributors to revenue.
 
 
-Learning Source: Developed this dashboard by following a tutorial by Rishabh Mishra on YouTube. Many thanks to Rishabh for his clear and insightful instruction!
