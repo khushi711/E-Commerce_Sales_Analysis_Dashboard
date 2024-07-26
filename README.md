@@ -10,4 +10,4 @@ Category-wise Sales Quantity: Analysis of sales quantity distribution among Clot
 Payment Method Insights: Breakdown of sales by payment methods including COD, UPI, EMI, Debit Card, and Credit Card.
 Top Customers and States: Identification of top customers and states by total spending, highlighting key contributors to revenue.
 
-
+Learning Source: I developed this dashboard based on instructions from a YouTube tutorial presented by Rishabh Mishra. Many thanks to Rishabh for his exceptional guidance!
